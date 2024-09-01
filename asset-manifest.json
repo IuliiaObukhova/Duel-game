@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/duel-game/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/duel-game/static/js/main.e28ecd7b.chunk.js",
+    "main.js.map": "/duel-game/static/js/main.e28ecd7b.chunk.js.map",
+    "runtime-main.js": "/duel-game/static/js/runtime-main.ca3dc0ef.js",
+    "runtime-main.js.map": "/duel-game/static/js/runtime-main.ca3dc0ef.js.map",
+    "static/js/2.f5c5f19a.chunk.js": "/duel-game/static/js/2.f5c5f19a.chunk.js",
+    "static/js/2.f5c5f19a.chunk.js.map": "/duel-game/static/js/2.f5c5f19a.chunk.js.map",
+    "index.html": "/duel-game/index.html",
+    "precache-manifest.56b2aa02a38cc5bffd6172ccd024b879.js": "/duel-game/precache-manifest.56b2aa02a38cc5bffd6172ccd024b879.js",
+    "service-worker.js": "/duel-game/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/duel-game/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.f5c5f19a.chunk.js.LICENSE.txt": "/duel-game/static/js/2.f5c5f19a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ca3dc0ef.js",
+    "static/js/2.f5c5f19a.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.e28ecd7b.chunk.js"
+  ]
+}
